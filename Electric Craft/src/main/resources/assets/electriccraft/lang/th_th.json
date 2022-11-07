@@ -1,0 +1,19 @@
+{
+	"item.electriccraft.lithium_ingot": "แท่งลิเทียม",
+	"item.electriccraft.electric_ingot": "ก้อนโลหะไฟฟ้า",
+	"item.electriccraft.electric_bar": "แท่งโลหะไฟฟ้า",
+	"item.electriccraft.creative_battery": "แบตเตอร์รี่แบบไม่จำกัด",
+	"item.electriccraft.battery": "แบตเตอร์รี่",
+	"item.electriccraft.super_sonic_gun": "ปืนทำลายล้างสูง",
+
+	"block.electriccraft.lithium_block": "บล็อคลิเทียม",
+	"block.electriccraft.electric_furnace": "เตาหลอมไฟฟ้า",
+	"block.electriccraft.electric_alloy_smelter": "เตาผสมโลหะไฟฟ้า",
+	
+	"block.electriccraft.energy_cable_copper": "ท่อไฟทองแดง",
+	"block.electriccraft.energy_cable_silver": "ท่อไฟโลหะเงิน",
+	"block.electriccraft.energy_cable_gold": "ท่อไฟทอง",
+
+	"key.category.electriccraft": "Electric Craft",
+	"key.electriccraft.nbt_tag_viewer": "ปุ่มดู NBT"
+}

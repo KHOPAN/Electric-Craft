@@ -1,0 +1,7 @@
+{
+	"parent": "electriccraft:block/cable/cable_connector_base",
+	"textures": {
+		"connect": "electriccraft:block/cable/connector/silver",
+		"particle": "electriccraft:block/cable/core/silver"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.khopan.minecraft.mod.electriccraft.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"EndermanEntityMixin",
+		"PlayerInventoryMixin",
+		"LavaMixin"
+	],
+
+	"client": [
+		"ElectricCraftMixin"
+	],
+
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

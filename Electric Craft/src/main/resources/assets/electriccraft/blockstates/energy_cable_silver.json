@@ -1,0 +1,80 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable"
+			}
+		},
+
+		{
+			"when": {
+				"north": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"uvlock": false
+			}
+		},
+
+		{
+			"when": {
+				"east": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"y": 90,
+				"uvlock": false
+			}
+		},
+
+		{
+			"when": {
+				"south": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"y": 180,
+				"uvlock": false
+			}
+		},
+
+		{
+			"when": {
+				"west": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"y": 270,
+				"uvlock": false
+			}
+		},
+
+		{
+			"when": {
+				"up": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"x": 270,
+				"uvlock": false
+			}
+		},
+
+		{
+			"when": {
+				"down": "true"
+			},
+
+			"apply": {
+				"model": "electriccraft:block/cable/cable/silver/silver_cable_connector",
+				"x": 90,
+				"uvlock": false
+			}
+		}
+	]
+}

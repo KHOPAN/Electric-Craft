@@ -1,0 +1,38 @@
+{
+	"info.tooltip.electriccraft.tooltip": "Hold §e[LSHIFT]§r for more info",
+	"info.tooltip.electriccraft.not_found": "Tooltip not found for item %1$s",
+
+	"info.tooltip.item.electriccraft.super_sonic_gun.line_one": "This gun is using the energy and pulling the energy from the air",
+	"info.tooltip.item.electriccraft.super_sonic_gun.line_two": "and compressed it down to around 30,000 PSI, and it so",
+	"info.tooltip.item.electriccraft.super_sonic_gun.line_three": "powerful that it can even shoot the enderman in just one shot.",
+
+	"item.electriccraft.lithium_ingot": "Lithium Ingot",
+	"item.electriccraft.electric_ingot": "Electric Ingot",
+	"item.electriccraft.electric_bar": "Electric Bar",
+	"item.electriccraft.creative_battery": "Creative Battery",
+	"item.electriccraft.battery": "Battery",
+	"item.electriccraft.super_sonic_gun": "Super Sonic Gun",
+
+	"block.electriccraft.lithium_block": "Lithium Block",
+	"block.electriccraft.electric_furnace": "Electric Furnace",
+	"block.electriccraft.electric_alloy_smelter": "Electric Alloy Smelter",
+	
+	"block.electriccraft.energy_cable_copper": "Copper Energy Cable",
+	"block.electriccraft.energy_cable_silver": "Silver Energy Cable",
+	"block.electriccraft.energy_cable_gold": "Gold Energy Cable",
+
+	"key.category.electriccraft": "Electric Craft",
+	"key.electriccraft.nbt_tag_viewer": "NBT Tag Viewer",
+
+	"death.attack.super_sonic_gun": "%1$s was shot by Super Sonic Gun",
+	"death.attack.electrocuted": "%1$s was electrocuted",
+
+	"create.ponder.tag.electric_craft": "Electric Craft",
+	"create.ponder.tag.electric_craft.description": "A mod that add electric stuff to minecraft.",
+
+	"create.ponder.electric_alloy_smelter.header": "Using the Electric Alloy Smelter",
+	"create.ponder.electric_alloy_smelter.text_1": "Electric Alloy Smelter is a machine used to combine different materials.",
+	"create.ponder.electric_alloy_smelter.text_2": "It uses electrical energy or a rotational energy.",
+	"create.ponder.electric_alloy_smelter.text_3": "By placing an energy source block near it, It will now recives the energy and start operating.",
+	"create.ponder.electric_alloy_smelter.text_4": "By right clicking on any side but not the front with the shaft, It will now recives the kinetic energy and start operating."
+}

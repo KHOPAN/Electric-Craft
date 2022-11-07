@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"top": "electriccraft:block/electric_alloy_smelter/electric_alloy_smelter_top",
+		"bottom": "electriccraft:block/electric_alloy_smelter/electric_alloy_smelter_bottom",
+		"side": "electriccraft:block/electric_alloy_smelter/electric_alloy_smelter_side",
+		"front": "electriccraft:block/electric_alloy_smelter/electric_alloy_smelter_front_off"
+	}
+}

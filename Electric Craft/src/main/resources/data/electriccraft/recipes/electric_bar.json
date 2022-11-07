@@ -1,0 +1,22 @@
+{
+	"type": "electriccraft:alloy_smelting",
+	"ingredients": [
+		{
+			"item": "minecraft:iron_ingot"
+		},
+
+		{
+			"item": "minecraft:redstone"
+		},
+
+		{
+			"item": "minecraft:coal"
+		}
+	],
+
+	"smeltingTime": 20,
+	"result": {
+		"item": "electriccraft:electric_bar",
+		"count": 1
+	}
+}

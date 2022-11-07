@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "electriccraft",
+	"version": "1.0.0",
+	"name": "Electric Craft",
+	"description": "This mod added electric stuff to minecraft.",
+	"authors": [
+		"KHOPAN"
+	],
+
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+
+	"license": "MIT",
+	"icon": "assets/electriccraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.khopan.minecraft.mod.electriccraft.ElectricCraft"
+		],
+
+		"client": [
+			"com.khopan.minecraft.mod.electriccraft.ElectricCraftClient"
+		]
+	},
+
+	"mixins": [
+		"electriccraft.mixins.json"
+	],
+
+	"depends": {
+		"fabricloader": ">=0.14.6",
+		"fabric": "*",
+		"minecraft": "~1.18.2",
+		"java": ">=17"
+	},
+
+	"suggests": {
+		"another-mod": "*"
+	}
+}
